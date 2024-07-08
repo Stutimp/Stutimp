@@ -1,4 +1,4 @@
-## **Hi there!!** 👋
+🌸🌸## **Hi There!!** 👋🙂🌸🌸
 
 Welcome to my GitHub profile! 😃 I’m Stuti Poudel, a passionate Data Analyst with a healthcare, public management, and finance background.
 
@@ -11,8 +11,12 @@ Welcome to my GitHub profile! 😃 I’m Stuti Poudel, a passionate Data Analyst
 - 💬 Ask me about: Python, SQL, Excel, Tableau, and Power BI
 - 📫 How to reach me: stuti.poudel919@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love diving into data to uncover hidden insights and solve complex problems!
+- ⚡ Fun fact: I love diving into data to uncover hidden insights and solve complex problems! 📈📉📊
+- Connect with me here 👉: https://www.linkedin.com/in/stuti-poudel-mpm-b52b77112/
   
-Feel free to explore my repositories and connect with me. Let's leverage the power of data together! 😎😇
+Please feel free to explore my repositories and reach out to me. Let's leverage the power of data together! 😎😇
 
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stutimp&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stutimp&layout=compact&theme=radical)
