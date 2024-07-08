@@ -15,7 +15,4 @@ Welcome to my GitHub profile! 😃 I’m Stuti Poudel, a passionate Data Analyst
   
 Feel free to explore my repositories and connect with me. Let's leverage the power of data together! 😎😇
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stutimp&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stutimp&layout=compact&theme=radical)
 
