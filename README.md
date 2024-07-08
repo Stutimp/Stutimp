@@ -1,16 +1,21 @@
-## Hi there 👋
+## **Hi there!!** 👋
 
-<!--
-**Stutimp/Stutimp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 😃 I’m Stuti Poudel, a passionate Data Analyst with a healthcare, public management, and finance background.
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on: Enhancing data visualization techniques with Power BI
+- 🌱 I’m currently learning: Advanced machine learning algorithms and their applications in healthcare
+- 👯 I’m looking to collaborate on: Data-driven projects that aim to make a positive impact
+- 🤔 I’m looking for help with: Implementing distributed processing frameworks like PySpark
+- 💬 Ask me about: Python, SQL, Excel, Tableau, and Power BI
+- 📫 How to reach me: stuti.poudel919@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love diving into data to uncover hidden insights and solve complex problems!
+  
+Feel free to explore my repositories and connect with me. Let's leverage the power of data together! 😎😇
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stutimp&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stutimp&layout=compact&theme=radical)
+
