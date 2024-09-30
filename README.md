@@ -1,6 +1,6 @@
 🌸🌸## **Hi There!!** 👋🙂🌸🌸
 
-Welcome to my GitHub profile! 😃 I’m Stuti Poudel, an accomplished Data professional with a solid finance foundation and a public management specialization. My career transition from finance to data analytics highlights my intellectual curiosity and commitment to leveraging data for strategic decision-making. I bring expertise in Excel, Python, SQL, Tableau, Power BI, and machine learning, with a proven track record of extracting valuable insights from diverse datasets.
+Welcome to my GitHub profile! I’m Stuti Poudel, an accomplished Data professional with a solid finance foundation and a public management specialization. My career transition from finance to data analytics highlights my intellectual curiosity and commitment to leveraging data for strategic decision-making. I bring expertise in Excel, Python, SQL, Tableau, Power BI, and machine learning, with a proven track record of extracting valuable insights from diverse datasets.
 
 My technical prowess includes advanced tools and languages like Pandas, MongoDB, and TensorFlow, enabling sophisticated data manipulation and visualization. I am eager to apply my analytical acumen and financial expertise to tackle complex challenges and contribute to innovative, data-driven strategies.
 
