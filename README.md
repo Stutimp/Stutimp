@@ -7,9 +7,8 @@ My technical prowess includes advanced tools and languages like Pandas, MongoDB,
 ### About Me
 
 - 🔭 I’m currently working on: Enhancing data visualization techniques with Power BI
-- 🌱 I’m currently learning: Advanced machine learning algorithms and their applications in healthcare
+- 🌱 I’m currently learning: Currently expanding my skills in Azure data engineering to build robust cloud-based data solutions.
 - 👯 I’m looking to collaborate on: Data-driven projects that aim to make a positive impact
-- 🤔 I’m looking for help with: Implementing distributed processing frameworks like PySpark
 - 💬 Ask me about: Python, SQL, Excel, Tableau, and Power BI
 - 📫 How to reach me: stuti.poudel919@gmail.com
 - 😄 Pronouns: She/Her
